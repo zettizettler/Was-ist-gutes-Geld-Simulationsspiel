@@ -16,3 +16,5 @@ Variante 2a: Gruppengespräche mit zentralem Spielleiter
 Variante 2b: Gruppengespräche mit leistungsstarken Spielleitern (Binnendifferenzierung)
 
 5. Spielende/Relfexion
+6. Quelle:
+https://www.blocktrainer.de/wissen/blocktrainer-1x1/eigenschaften-von-gutem-geld
