@@ -34,5 +34,7 @@ Zum Abschluss des Spieles kann man im UG die Erfahrungen besprechen und final al
 5. Quellen:
    
 https://www.blocktrainer.de/wissen/blocktrainer-1x1/eigenschaften-von-gutem-geld
+
 https://bitcoinverstehen.info/episode/episode-119-die-suche-nach-dem-besten-geld-ist-bitcoin-die-losung
+
 Saifedean Ammous, Der Bitcoin-Standard. Eine dezentrale Alternative zum Zentralbankensystem, Deutschland 2019.
